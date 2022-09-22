@@ -3,4 +3,4 @@
 </h1>
 
 ## 💻 Projeto
-Projeto baseado num E-Commerce feito em React.js
+Projeto baseado num E-Commerce feito em HTML, CSS e JavaScript
